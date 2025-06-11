@@ -1,0 +1,15 @@
+{
+  "name": "trynode",
+  "version": "1.0.0",
+  "description": "try to create backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Tejas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
